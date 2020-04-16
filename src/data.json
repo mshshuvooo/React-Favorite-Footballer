@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "Lionel messi",
+      "dateOfBirth": "24 June 1987",
+      "position": "Forward",
+      "shirtNumber": "10",
+      "country": "Argentina",
+      "club": "Barcelona"
+    },
+    {
+      "id": 2,
+      "name": "Andrés Iniesta",
+      "dateOfBirth": "11 May, 1984",
+      "position": "Central midfielder",
+      "shirtNumber": "08",
+      "country": "Spain",
+      "club": "Barcelona"
+    },
+    {
+      "id": 3,
+      "name": "XaviHernández",
+      "dateOfBirth": "25 January 1980",
+      "position": "Midfielder",
+      "shirtNumber": "06",
+      "country": "Spain",
+      "club": "Barcelona"
+    },
+    {
+      "id": 4,
+      "name": "Carles Puyol",
+      "dateOfBirth": "13 April 1978",
+      "position": "Defender",
+      "shirtNumber": "05",
+      "country": "Spain",
+      "club": "Barcelona"
+    },
+    {
+      "id": 5,
+      "name": "Sergio Busquets",
+      "dateOfBirth": "16 July 1988",
+      "position": "Defensive midfielder",
+      "shirtNumber": "05",
+      "country": "Spain",
+      "club": "Barcelona"
+    },
+    {
+      "id": 6,
+      "name": "Ronaldinho",
+      "dateOfBirth": "21 March 1980",
+      "position": "Forward",
+      "shirtNumber": "10",
+      "country": "Brazil",
+      "club": "Barcelona"
+    },
+    {
+      "id": 7,
+      "name": "Cristiano Ronaldo",
+      "dateOfBirth": "5 February 1985",
+      "position": "Forward",
+      "shirtNumber": "07",
+      "country": "Portugal",
+      "club": "Juventus"
+    },
+    {
+      "id": 8,
+      "name": "Luis Suárez",
+      "dateOfBirth": "24 January 1987",
+      "position": "Striker",
+      "shirtNumber": "09",
+      "country": "Uruguaya",
+      "club": "Barcelona"
+    },
+    {
+      "id": 9,
+      "name": "Zlatan Ibrahimović",
+      "dateOfBirth": "3 October 1981",
+      "position": "Striker",
+      "shirtNumber": "10",
+      "country": "Sweden",
+      "club": "AC Milan"
+    },
+    {
+      "id": 10,
+      "name": "Dani Alves",
+      "dateOfBirth": "6 May 1983",
+      "position": "Right-back",
+      "shirtNumber": "02",
+      "country": "Brazil",
+      "club": "Barcelona"
+    },
+    {
+      "id": 11,
+      "name": "Marcelo",
+      "dateOfBirth": "12 May 1988",
+      "position": "Left back",
+      "shirtNumber": "12",
+      "country": "Barzil",
+      "club": "Real Madrid"
+    },
+    {
+      "id": 12,
+      "name": "Marc Ter Stegen",
+      "dateOfBirth": "30 April, 1992",
+      "position": "Goal keeper",
+      "shirtNumber": "01",
+      "country": "germany",
+      "club": "Barcelona"
+    }
+    
+  ]
