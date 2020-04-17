@@ -6,7 +6,8 @@
       "position": "Forward",
       "shirtNumber": "10",
       "country": "Argentina",
-      "club": "Barcelona"
+      "club": "Barcelona",
+      "img": "https://www.ht.no/incoming/article21158875.ece/adlnvz/ALTERNATES/w980-default/ls6HvStoNaY.jpg"
     },
     {
       "id": 2,
@@ -15,16 +16,18 @@
       "position": "Central midfielder",
       "shirtNumber": "08",
       "country": "Spain",
-      "club": "Barcelona"
+      "club": "Barcelona",
+      "img": "https://images.outlookindia.com/public/uploads/articles/2020/4/17/Andres-Iniesta-Trophy-Twitt_571_855.jpg"
     },
     {
       "id": 3,
-      "name": "XaviHernández",
+      "name": "Xavi Hernández",
       "dateOfBirth": "25 January 1980",
       "position": "Midfielder",
       "shirtNumber": "06",
       "country": "Spain",
-      "club": "Barcelona"
+      "club": "Barcelona",
+      "img": "https://scoopempire.com/wp-content/uploads/2014/11/xavi10.jpeg"
     },
     {
       "id": 4,
@@ -33,7 +36,8 @@
       "position": "Defender",
       "shirtNumber": "05",
       "country": "Spain",
-      "club": "Barcelona"
+      "club": "Barcelona",
+      "img": "https://secure.i.telegraph.co.uk/multimedia/archive/02841/Carles_Puyol_2841768b.jpg"
     },
     {
       "id": 5,
@@ -42,7 +46,8 @@
       "position": "Defensive midfielder",
       "shirtNumber": "05",
       "country": "Spain",
-      "club": "Barcelona"
+      "club": "Barcelona",
+      "img": "https://www.fcbarcelonanoticias.com/uploads/s1/11/61/06/6/sergio-busquets-gamper.jpeg"
     },
     {
       "id": 6,
@@ -51,7 +56,8 @@
       "position": "Forward",
       "shirtNumber": "10",
       "country": "Brazil",
-      "club": "Barcelona"
+      "club": "Barcelona",
+      "img": "https://en.as.com/en/imagenes/2018/01/17/football/1516179075_370546_noticia_normal.jpg"
     },
     {
       "id": 7,
@@ -60,7 +66,8 @@
       "position": "Forward",
       "shirtNumber": "07",
       "country": "Portugal",
-      "club": "Juventus"
+      "club": "Juventus",
+      "img": "https://t.resfu.com/media/img_news/goal_cristiano-ronaldo-juventus-2019-20_n0u17wv7htfx1c8ulhao1grbe.jpg"
     },
     {
       "id": 8,
@@ -69,7 +76,8 @@
       "position": "Striker",
       "shirtNumber": "09",
       "country": "Uruguaya",
-      "club": "Barcelona"
+      "club": "Barcelona",
+      "img": "https://images.says.com/uploads/story_source/source_image/575536/bfa3.jpg"
     },
     {
       "id": 9,
@@ -78,7 +86,8 @@
       "position": "Striker",
       "shirtNumber": "10",
       "country": "Sweden",
-      "club": "AC Milan"
+      "club": "AC Milan",
+      "img": "https://faktor.ba/cms/uploads/2019/11/3abc436a7979db2f27d29357a7ec435d.jpg"
     },
     {
       "id": 10,
@@ -87,7 +96,8 @@
       "position": "Right-back",
       "shirtNumber": "02",
       "country": "Brazil",
-      "club": "Barcelona"
+      "club": "Barcelona",
+      "img": "https://cdn.vox-cdn.com/thumbor/qzdpbIIQYT8B-BnrBjynEWuYYoM=/0x23:979x676/1200x800/filters:focal(0x23:979x676)/cdn.vox-cdn.com/photo_images/2393536/GYI0064241770.jpg"
     },
     {
       "id": 11,
@@ -96,7 +106,8 @@
       "position": "Left back",
       "shirtNumber": "12",
       "country": "Barzil",
-      "club": "Real Madrid"
+      "club": "Real Madrid",
+      "img": "https://www.juvefc.com/wp-content/uploads/2019/02/marcelo-940x529.jpg"
     },
     {
       "id": 12,
@@ -105,7 +116,8 @@
       "position": "Goal keeper",
       "shirtNumber": "01",
       "country": "germany",
-      "club": "Barcelona"
+      "club": "Barcelona",
+      "img": "https://img.bleacherreport.net/img/images/photos/003/704/473/hi-res-68461c527802b0f825bf41f13235f26b_crop_north.jpg?1509222705&w=3072&h=2048"
     }
     
   ]
