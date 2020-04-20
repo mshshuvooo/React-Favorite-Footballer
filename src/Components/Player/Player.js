@@ -1,9 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
+import './Player.css';
 
 const Player = (props) => {
     const{img, dateOfBirth, position, shirtNumber, club, country} = props.player;
-    return (
-        <div className="col-lg-4">
+    
+    
+    return (        
+        <div className="col-lg-6">
             <div className="player-card">
                 <div className="player-profile-pic">
                     <img src={img} alt=""/>
@@ -16,7 +19,14 @@ const Player = (props) => {
                     <p><strong>Club:</strong> {club}</p>
                     <p><strong>Country:</strong> {country}</p>
                 </div>
-                <button>Add to favorite <i className="fa fa-heart"></i></button>
+                    
+                
+
+                <button onClick={() => props.addToFavHandelar(props.player)}>Add to favorite</button>
+                <button onClick={() => props.removeFavHandelar(props.player)}>Remove from favorite</button> 
+   
+                
+               
             </div>
         </div>
     );
