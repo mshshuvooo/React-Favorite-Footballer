@@ -1,0 +1,24 @@
+.single-fav-player img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: -15px;
+}
+
+.single-fav-player {
+    position: relative;
+    min-height: 100px;
+}
+
+.fav-player-info {
+    padding-left: 115px;
+    margin-top: 20px;
+}
+
+.fav-player-info h4 {
+    margin: 0 0 4px;
+    font-size: 20px;
+}

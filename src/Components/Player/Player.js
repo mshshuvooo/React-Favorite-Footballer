@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './Player.css';
 
 const Player = (props) => {
     const{img, dateOfBirth, position, shirtNumber, club, country} = props.player;
-    
+    const isFav = props.isFav(props.player);
     
     return (        
         <div className="col-lg-6">
@@ -22,9 +22,12 @@ const Player = (props) => {
                     
                 
 
-                <button onClick={() => props.addToFavHandelar(props.player)}>Add to favorite</button>
-                <button onClick={() => props.removeFavHandelar(props.player)}>Remove from favorite</button> 
-   
+                {
+                    isFav ?
+                    <button onClick={() => props.removeFavHandelar(props.player)}>Remove from favorite</button>
+                    :
+                    <button onClick={() => props.addToFavHandelar(props.player)}>Add to favorite</button>
+                }
                 
                
             </div>
